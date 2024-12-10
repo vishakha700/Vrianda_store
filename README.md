@@ -15,7 +15,7 @@
 >  * Donut charts showcasing category performance
 >    This dashboard provides valuable insights to help businesses optimize their sales strategies.
 >    # Actionable Insights
-> "Just wrapped up a project to analyze and visualize e-commerce sales data! 📊 We uncovered key insights such as:
+> 📊 We uncovered key insights such as:
 >  * November was the most profitable month, while May experienced a loss.
 >  * Clothing is the top-performing category, accounting for 63% of quantity sold.
 >  * Harivansh is our top elite customer.
